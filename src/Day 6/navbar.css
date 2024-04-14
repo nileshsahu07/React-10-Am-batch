@@ -1,0 +1,22 @@
+.navcss{
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+    
+}
+
+.navcss ul a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+
+.navcss ul li{
+    display: inline;
+}
+
+.foot{
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+}

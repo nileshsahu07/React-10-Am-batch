@@ -1,0 +1,19 @@
+.divv{
+    width: 200px;
+    height: 300px;
+    margin: auto;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.para{
+    color: white;
+}
+
+.btn1{
+    width: 100px;
+    height: 30px;
+    background-color: yellow;
+}
