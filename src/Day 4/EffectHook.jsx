@@ -10,6 +10,7 @@ function EffectHook() {
 
     useEffect(()=>{
         alert("Welcome Page")
+        console.log("welcom to jumbanji")
     },[name])
 
     return (

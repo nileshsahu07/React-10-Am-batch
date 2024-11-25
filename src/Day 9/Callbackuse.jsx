@@ -1,6 +1,6 @@
 import { memo } from "react";
 
-function Callbackuse() {
+function Callbackuse(props) {
 
     console.log("use call back compo...")
     return ( 

@@ -7,6 +7,7 @@ function HookEffect(){
     useEffect(()=>{
         setTimeout(()=>{
             setCount(count+1)
+            console.log("Welcome")
         },1000)
     },[count])
 

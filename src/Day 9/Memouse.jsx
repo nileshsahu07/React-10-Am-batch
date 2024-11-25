@@ -5,13 +5,13 @@ function Memouse() {
   const [name, setName] = useState("Nilesh Sahu");
   
 
-  const deviderFun = useMemo(
-    function Devide() {
-      console.log("I Am a Developer"); 
-      return value / 2;
-    },
-    [value]
-  );
+  // const deviderFun = useMemo(
+  //   function Devide() {
+  //     console.log("I Am a Developer"); 
+  //     return value / 2;
+  //   },
+  //   [value]
+  // );
 
   return (
     <>

@@ -5,7 +5,7 @@
 // import EffectHook from "./Day 4/EffectHook";
 // import HookEffect from "./Day 4/HookEffect";
 // import Fatch from "./Day 5/Fatch";
-import Todo from "./Day3/Todo";
+// import Todo from "./Day3/Todo";
 // import Navbar from "./Day 6/Navbar";
 // import Footer from "./Day 6/Footer"
 // import Homepage from "./Day 6/Homepage"
@@ -41,8 +41,8 @@ function App() {
 //  const [name,setName] = useState("Nilesh")
 
 //  function TestFun(){
-  // let a = 10
-  // console.log(a)
+//   let a = 10
+//   console.log(a)
 //  }
 
 //  let handleValue = useCallback(TestFun,[count])
@@ -52,7 +52,7 @@ function App() {
       {/* <State/>
       <Statesecond/>
       <Form/> */}
-      <Todo/>
+      {/* <Todo/> */}
       {/* <HookEffect/> */}
       {/* <EffectHook/> */}
       {/* <Fatch/> */}
@@ -96,11 +96,6 @@ function App() {
       <button onClick={()=>{setCount(count+1)}}>+</button>
       <h1>{name}</h1>
       <button onClick={()=>{setName("Nilesh Pancholi")}}>Enter</button> */}
-
-
-
-
-
       
     </>
   )
